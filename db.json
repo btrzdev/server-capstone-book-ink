@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "email": "joão@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "João Pedro",
+      "age": 18,
+      "img": "",
+      "isTattooists": true,
+      "id": 1
+    },
+    {
+      "email": "vitor@mail.com",
+      "password": "$2a$10$p6hx71hNfLTXKCsifPFO5.dmXBDyQ4hoO8Z/PA3tNUThUa0Dj/dAi",
+      "name": "Vitor Soares Ferreira",
+      "age": 29,
+      "img": "",
+      "isTattooists": true,
+      "id": 2
+    },
+    {
+      "email": "mario@mail.com",
+      "password": "$2a$10$q6F0aLHCvCi4A9CRYIfbu.R9ySW60Q8LcruyJ3SrYsiZLWogqMz/e",
+      "name": "Mario Soares Ferreira",
+      "age": 39,
+      "img": "",
+      "isTattooists": false,
+      "id": 3
+    },
+    {
+      "email": "murilo@mail.com",
+      "password": "$2a$10$iAE2X3OJzQcu8oDL8QYzIuWml0bnGaTh6drnQOEd6/hL2Dkzhn6wK",
+      "name": "Muliro Martins",
+      "img": "",
+      "age": 20,
+      "isTattooists": false,
+      "id": 4
+    }
+  ],
+  "tattooists": [
+    {
+      "name": "Tattoo Vitor's",
+      "bio": "Nossas tatuagens são de muita qualidade",
+      "img": "",
+      "portifolio": "",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "Tattoo Pedro's",
+      "bio": "Nossas tatuagens são muito brilhosas",
+      "img": "",
+      "portifolio": "",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "comment": "Este tatuador é muito Top",
+      "rate": 4,
+      "userId": 3,
+      "tattooistsId": 2,
+      "id": 1
+    },
+    {
+      "comment": "Este tatuador é muito ruim, não gostei da qualidade da tattoo",
+      "rate": 3,
+      "userId": 4,
+      "tattooistsId": 1,
+      "id": 2
+    },
+    {
+      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "rate": 4,
+      "userId": 4,
+      "tattooistsId": 2,
+      "id": 3
+    }
+  ],
+  "sessions": [
+    {
+      "description": "Faremos uma sessão de arte",
+      "userId": 3,
+      "tattooistsId": 2,
+      "id": 1
+    }
+  ]
+}

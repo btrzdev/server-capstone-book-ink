@@ -1,0 +1,8 @@
+{
+  "/users": "/644/users/?_embed=comments",
+  "/comments": "/644/comments/?_expand=tattooists",
+  "tattooists": 644,
+  "empresas": 644,
+  "sessions": 644,
+  "produtos": 640
+}
