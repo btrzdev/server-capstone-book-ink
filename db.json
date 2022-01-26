@@ -37,44 +37,23 @@
       "id": 4
     }
   ],
-  "tattooists": [
-    {
-      "name": "Tattoo Vitor's",
-      "bio": "Nossas tatuagens são de muita qualidade",
-      "img": "",
-      "portifolio": "",
-      "userId": 2,
-      "id": 1
-    },
-    {
-      "name": "Tattoo Pedro's",
-      "bio": "Nossas tatuagens são muito brilhosas",
-      "img": "",
-      "portifolio": "",
-      "userId": 1,
-      "id": 2
-    }
-  ],
   "comments": [
     {
       "comment": "Este tatuador é muito Top",
       "rate": 4,
-      "userId": 3,
-      "tattooistsId": 2,
+      "userId": 1,
       "id": 1
     },
     {
       "comment": "Este tatuador é muito ruim, não gostei da qualidade da tattoo",
       "rate": 3,
-      "userId": 4,
-      "tattooistsId": 1,
+      "userId": 2,
       "id": 2
     },
     {
       "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
       "rate": 4,
-      "userId": 4,
-      "tattooistsId": 2,
+      "userId": 1,
       "id": 3
     }
   ],
