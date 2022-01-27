@@ -1,40 +1,130 @@
 {
   "users": [
     {
-      "email": "joão@mail.com",
+      "email": "rodrigo@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "João Pedro",
-      "age": 18,
-      "img": "",
+      "name": "Rodrigo Callegari",
+      "img": "https://www.rodrigocallegari.com/core/wp-content/uploads/2017/03/e41e0afedc5ea79a7209ba653afccc86.jpg",
+      "bio": "Tatuador desde 1996, Rodrigo Callegari começou sua carreira no Guarujá-SP e logo foi convidado a trabalhar também em São Paulo-SP. Algumas temporadas na Europa contribuíram para o aprimoramento do seu trabalho.Dedica seus estudos à arte japonesa para fazer tatuagens orientais, e também faz os estilos tribais, old school, pontilhismo, entre outros, sempre da forma tradicional, com linhas firmes e cores fortes.",
       "isTattooists": true,
       "id": 1
     },
     {
-      "email": "vitor@mail.com",
-      "password": "$2a$10$p6hx71hNfLTXKCsifPFO5.dmXBDyQ4hoO8Z/PA3tNUThUa0Dj/dAi",
-      "name": "Vitor Soares Ferreira",
-      "age": 29,
-      "img": "",
+      "email": "amanda@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Amanda Wachob",
+      "img": "https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/02/02-28-TAT-PIX001_5.jpg?resize=1365,2048",
+      "bio": "Este tatuador é conhecido como “pontos e linhas”. Suas tatuagens são exclusivamente em tinta preta, nunca usando nenhuma outra cor. Suas linhas e desenhos pontilhados são bastante criativos e ele é muito bem visto pelos amantes de tatuagens.",
       "isTattooists": true,
       "id": 2
     },
     {
-      "email": "mario@mail.com",
-      "password": "$2a$10$q6F0aLHCvCi4A9CRYIfbu.R9ySW60Q8LcruyJ3SrYsiZLWogqMz/e",
-      "name": "Mario Soares Ferreira",
-      "age": 39,
-      "img": "",
-      "isTattooists": false,
+      "email": "chain@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Chaim Machlev",
+      "img": "https://1.bp.blogspot.com/-5RgJR7Uq2ts/X-oDILGFZsI/AAAAAAAAO1U/K0JKRjJ2cvAsY38HV8fYi0d_kaCx7bopgCNcBGAsYHQ/s2048/Profile.jpg",
+      "bio": "Amanda é capaz de fazer figuras incríveis com tinta de cores diferentes nas peles de seus clientes. Seus desenhos impecáveis ​​dão a sensação de ver uma imagem hiper-realista.Faça todos os tipos de desenhos, desde figuras geométricas, passando por borboletas coloridas, até pontos e pontos, criando um desenho abstrato de alta qualidade.",
+      "isTattooists": true,
       "id": 3
     },
     {
-      "email": "murilo@mail.com",
-      "password": "$2a$10$iAE2X3OJzQcu8oDL8QYzIuWml0bnGaTh6drnQOEd6/hL2Dkzhn6wK",
-      "name": "Muliro Martins",
-      "img": "",
-      "age": 20,
-      "isTattooists": false,
+      "email": "xoil@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Xoïl",
+      "img": "https://maestrovirtuale.com/wp-content/uploads/2019/10/Xo%C3%AFl.jpg",
+      "bio": "Loic Lavenú tem um estilo original, pouco visto, que faz suas tatuagens parecerem passadas pelo photoshop. A tinta preta predomina, mas você pode usar outras cores.",
+      "isTattooists": true,
       "id": 4
+    },
+    {
+      "email": "peter@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Peter Aurisch",
+      "img": "https://crhofmann.files.wordpress.com/2012/10/peter-aurisch.jpeg",
+      "bio": "Tatuador talentoso das Belas Artes. Suas tatuagens são como pequenas pinturas na epiderme dos clientes, não importa se é estilo aquarela, esboço ou carvão. Muito original.",
+      "isTattooists": true,
+      "id": 5
+    },
+    {
+      "email": "sacha@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Sasha Unisex",
+      "img": "https://maestrovirtuale.com/wp-content/uploads/2019/10/Sasha-Unisex.jpg",
+      "bio": "A coisa mais incrível sobre essa tatuadora russa é a rica e variada gama de cores que ela usa em seu trabalho.Precisamente essas cores, com a combinação apropriada delas, fazem com que suas tatuagens adquiram um toque elegante de suavidade que é muito difícil de obter na tatuagem. É como se suas agulhas não perfurassem a pele, como se ele a pintasse suavemente.",
+      "isTattooists": true,
+      "id": 6
+    },
+    {
+      "email": "madame@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Madame Chan",
+      "img": "https://maestrovirtuale.com/wp-content/uploads/2019/10/Madame-Chan-min.png",
+      "bio": "Tatuadora original, com um estilo inconfundível, no qual combina motivos cotidianos com desenhos de seus sonhos e fantasias.",
+      "isTattooists": true,
+      "id": 7
+    },
+    {
+      "email": "alice@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Alice Carrier",
+      "img": "https://maestrovirtuale.com/wp-content/uploads/2019/10/Alice-Carrier.jpg",
+      "bio": "Se você gosta dos motivos e desenhos da natureza, este é o seu tatuador ideal. De flores, pétalas e caules, através de espigas de trigo, a pequenos pássaros empoleirados em galhos, Alice tem uma mão muito boa para desenhar.",
+      "isTattooists": true,
+      "id": 8
+    },
+    {
+      "email": "rob@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Rob Kelly",
+      "img": "https://maestrovirtuale.com/wp-content/uploads/2019/10/Rob-Kelly.jpg",
+      "bio": "Este artista combina o melhor da arte ocidental com a tatuagem clássica chinesa. Combine a nova escola de cores com o traço clássico no desenho e nas linhas.",
+      "isTattooists": true,
+      "id": 9
+    },
+    {
+      "email": "angelique@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Angelique Houtkamp",
+      "img": "http://1.bp.blogspot.com/_zef1S3Blw-4/THHpZ2sK-rI/AAAAAAAACgM/uQDR7gZKqWY/s1600/angelique+houtkamp+2.jpg",
+      "bio": "Este tatuadora holandesa começou relativamente tarde, aos trinta anos. Isso não a impediu de obter seu próprio estilo, com um toque feminino, que valeria tanto a tela quanto a pele.",
+      "isTattooists": true,
+      "id": 10
+    },
+    {
+      "email": "vitorsoresf@gmail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Vitor Soares Ferreira",
+      "img": "https://media-exp1.licdn.com/dms/image/C4E03AQEmf5RZhJCHTA/profile-displayphoto-shrink_800_800/0/1622946043959?e=1648684800&v=beta&t=jZQhRtj2iPFLWuGis5vwcbytsuv6L1d-0vRORHyZR4U",
+      "bio": "",
+      "isTattooists": false,
+      "id": 11
+    },
+    {
+      "email": "mario@gmail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Mario Correira",
+      "img": "",
+      "bio": "",
+      "isTattooists": false,
+      "id": 12
+    },
+    {
+      "email": "joão@gmail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "João Mario",
+      "img": "",
+      "bio": "",
+      "isTattooists": false,
+      "id": 13
+    },
+    {
+      "email": "maria@gmail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Maria Alves",
+      "img": "",
+      "bio": "",
+      "isTattooists": false,
+      "id": 14
     }
   ],
   "comments": [
