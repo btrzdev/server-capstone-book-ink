@@ -91,7 +91,7 @@
       "id": 10
     },
     {
-      "email": "vitorsoresf@gmail.com",
+      "email": "vitorsoaresf@gmail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Vitor Soares Ferreira",
       "img": "https://media-exp1.licdn.com/dms/image/C4E03AQEmf5RZhJCHTA/profile-displayphoto-shrink_800_800/0/1622946043959?e=1648684800&v=beta&t=jZQhRtj2iPFLWuGis5vwcbytsuv6L1d-0vRORHyZR4U",
@@ -131,20 +131,143 @@
     {
       "comment": "Este tatuador é muito Top",
       "rate": 4,
+      "name": "Vitor Soares Ferreira",
       "userId": 1,
       "id": 1
     },
     {
-      "comment": "Este tatuador é muito ruim, não gostei da qualidade da tattoo",
-      "rate": 3,
-      "userId": 2,
+      "comment": "Não gostei muito do seu trabalho, muito grosso",
+      "rate": 2,
+      "name": "Maria Alves",
+      "userId": 1,
       "id": 2
     },
     {
-      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
-      "rate": 4,
-      "userId": 1,
+      "comment": "Discordo de vc Maria, o cara é top",
+      "rate": 5,
+      "name": "João Mario",
+      "userId": 2,
       "id": 3
+    },
+    {
+      "comment": "Muito bom desenhista, me chama no zap quem quiser conversar - xxxxxxxxx",
+      "rate": 4,
+      "name": "Mario Correira",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "comment": "Este tatuador é muito ruim, não gostei da qualidade da tattoo",
+      "name": "Vitor Soares",
+      "rate": 3,
+      "userId": 3,
+      "id": 5
+    },
+    {
+      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "name": "Maria Alves",
+      "rate": 4,
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "comment": "Este tatuador é muito Top",
+      "rate": 4,
+      "name": "Vitor Soares Ferreira",
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "comment": "Não gostei muito do seu trabalho, muito grosso",
+      "rate": 2,
+      "name": "Maria Alves",
+      "userId": 4,
+      "id": 8
+    },
+    {
+      "comment": "Discordo de vc Maria, o cara é top",
+      "rate": 5,
+      "name": "João Mario",
+      "userId": 5,
+      "id": 9
+    },
+    {
+      "comment": "Muito bom desenhista, me chama no zap quem quiser conversar - xxxxxxxxx",
+      "rate": 4,
+      "name": "Mario Correira",
+      "userId": 5,
+      "id": 10
+    },
+    {
+      "comment": "Este tatuador é muito ruim, não gostei da qualidade da tattoo",
+      "name": "Vitor Soares",
+      "rate": 3,
+      "userId": 6,
+      "id": 11
+    },
+    {
+      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "name": "Maria Alves",
+      "rate": 4,
+      "userId": 6,
+      "id": 12
+    },
+
+    {
+      "comment": "Este tatuador é muito Top",
+      "rate": 4,
+      "name": "Vitor Soares Ferreira",
+      "userId": 7,
+      "id": 12
+    },
+    {
+      "comment": "Não gostei muito do seu trabalho, muito grosso",
+      "rate": 2,
+      "name": "Maria Alves",
+      "userId": 7,
+      "id": 13
+    },
+    {
+      "comment": "Discordo de vc Maria, o cara é top",
+      "rate": 5,
+      "name": "João Mario",
+      "userId": 8,
+      "id": 14
+    },
+    {
+      "comment": "Muito bom desenhista, me chama no zap quem quiser conversar - xxxxxxxxx",
+      "rate": 4,
+      "name": "Mario Correira",
+      "userId": 8,
+      "id": 15
+    },
+    {
+      "comment": "Este tatuador é muito ruim, não gostei da qualidade da tattoo",
+      "name": "Vitor Soares",
+      "rate": 3,
+      "userId": 9,
+      "id": 16
+    },
+    {
+      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "name": "Maria Alves",
+      "rate": 4,
+      "userId": 9,
+      "id": 17
+    },
+    {
+      "comment": "Este tatuador é muito ruim, não gostei da qualidade da tattoo",
+      "name": "Vitor Soares",
+      "rate": 3,
+      "userId": 10,
+      "id": 18
+    },
+    {
+      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "name": "Maria Alves",
+      "rate": 4,
+      "userId": 10,
+      "id": 19
     }
   ],
   "sessions": [
