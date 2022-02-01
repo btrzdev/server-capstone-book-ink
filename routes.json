@@ -1,6 +1,7 @@
 {
-  "/users": "/644/users/?_embed=comments",
+  "/users": "/644/users/?_embed=comments&_embed=sessions",
   "/comments": "/644/comments/?_expand=tattooists",
-  "/tattooists": "/644/users?isTattooists=true&_embed=comments",
-  "sessions": 644
+  "/tattooists": "/644/users?isTattooists=true&_embed=comments&_embed=sessions",
+  "sessions": 644,
+  "depositions": 644
 }

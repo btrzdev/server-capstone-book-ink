@@ -14,7 +14,7 @@
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Amanda Wachob",
       "img": "https://lede-admin.coloradosun.com/wp-content/uploads/sites/15/2019/02/02-28-TAT-PIX001_5.jpg?resize=1365,2048",
-      "bio": "Este tatuador é conhecido como “pontos e linhas”. Suas tatuagens são exclusivamente em tinta preta, nunca usando nenhuma outra cor. Suas linhas e desenhos pontilhados são bastante criativos e ele é muito bem visto pelos amantes de tatuagens.",
+      "bio": "Amanda é capaz de fazer figuras incríveis com tinta de cores diferentes nas peles de seus clientes. Seus desenhos impecáveis ​​dão a sensação de ver uma imagem hiper-realista.Faça todos os tipos de desenhos, desde figuras geométricas, passando por borboletas coloridas, até pontos e pontos, criando um desenho abstrato de alta qualidade.",
       "isTattooists": true,
       "id": 2
     },
@@ -23,7 +23,7 @@
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Chaim Machlev",
       "img": "https://1.bp.blogspot.com/-5RgJR7Uq2ts/X-oDILGFZsI/AAAAAAAAO1U/K0JKRjJ2cvAsY38HV8fYi0d_kaCx7bopgCNcBGAsYHQ/s2048/Profile.jpg",
-      "bio": "Amanda é capaz de fazer figuras incríveis com tinta de cores diferentes nas peles de seus clientes. Seus desenhos impecáveis ​​dão a sensação de ver uma imagem hiper-realista.Faça todos os tipos de desenhos, desde figuras geométricas, passando por borboletas coloridas, até pontos e pontos, criando um desenho abstrato de alta qualidade.",
+      "bio": "Este tatuador é conhecido como “pontos e linhas”. Suas tatuagens são exclusivamente em tinta preta, nunca usando nenhuma outra cor. Suas linhas e desenhos pontilhados são bastante criativos e ele é muito bem visto pelos amantes de tatuagens.",
       "isTattooists": true,
       "id": 3
     },
@@ -94,37 +94,64 @@
       "email": "vitorsoaresf@gmail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Vitor Soares Ferreira",
-      "img": "https://media-exp1.licdn.com/dms/image/C4E03AQEmf5RZhJCHTA/profile-displayphoto-shrink_800_800/0/1622946043959?e=1648684800&v=beta&t=jZQhRtj2iPFLWuGis5vwcbytsuv6L1d-0vRORHyZR4U",
+      "img": "https://ca.slack-edge.com/TQZR39SET-U024RJ52B4N-5e6311ad4a24-512",
       "bio": "",
       "isTattooists": false,
       "id": 11
     },
     {
-      "email": "mario@gmail.com",
+      "email": "luizpombo@gmail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Mario Correira",
-      "img": "",
+      "name": "Luiz Pombo",
+      "img": "https://ca.slack-edge.com/TQZR39SET-U0277GMBV8S-2a162ed413ea-512",
       "bio": "",
       "isTattooists": false,
       "id": 12
     },
     {
-      "email": "joão@gmail.com",
+      "email": "joãopedro@gmail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "João Mario",
-      "img": "",
+      "name": "João Pedro",
+      "img": "https://ca.slack-edge.com/TQZR39SET-U020XDKJ63E-c87d95585258-512",
       "bio": "",
       "isTattooists": false,
       "id": 13
     },
     {
-      "email": "maria@gmail.com",
+      "email": "beatrizsilva@gmail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Maria Alves",
-      "img": "",
+      "name": "Beatriz Silva",
+      "img": "https://ca.slack-edge.com/TQZR39SET-U0296AMUJN8-3b0de255e5ed-512",
       "bio": "",
       "isTattooists": false,
       "id": 14
+    },
+    {
+      "email": "vilsonneto@gmail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Vilson Neto",
+      "img": "https://ca.slack-edge.com/TQZR39SET-U01SH3T3T1A-29916e744051-512",
+      "bio": "",
+      "isTattooists": false,
+      "id": 15
+    },
+    {
+      "email": "poketnans@gmail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Etnan Ketchum",
+      "img": "https://ca.slack-edge.com/TQZR39SET-U0219SV07GX-e2b04255144b-512",
+      "bio": "",
+      "isTattooists": false,
+      "id": 16
+    },
+    {
+      "email": "vilso@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Vilson Neto",
+      "img": "https://drive.google.com/file/d/1nSNIHykQThoHeqtF2A535Kd4_C-BY2vm/view?usp=sharing",
+      "bio": "Esse Tatuador tem sua arte criativa inspirada nos monges que residem na Tanzânia. Isso porque ele fez o caminho de ascensão como monge Júnior, mas desistiu para ser tatuador. Suas tattoos são criadas a partir da pseudo matéria que reside em algum espaço nas galáxias.",
+      "isTattooists": true,
+      "id": 17
     }
   ],
   "comments": [
@@ -143,14 +170,14 @@
       "id": 2
     },
     {
-      "comment": "Discordo de vc Maria, o cara é top",
+      "comment": "Amanda é uma ótima tatuadora recomendo demais suas tattoo's",
       "rate": 5,
       "name": "João Mario",
       "userId": 2,
       "id": 3
     },
     {
-      "comment": "Muito bom desenhista, me chama no zap quem quiser conversar - xxxxxxxxx",
+      "comment": "Muito boa desenhista, me chama no zap quem quiser conversar - (83)99876-4523",
       "rate": 4,
       "name": "Mario Correira",
       "userId": 2,
@@ -164,7 +191,7 @@
       "id": 5
     },
     {
-      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "comment": "Este tatuador é muito melhor que o Rodriho Callegari. Parabéns cara!",
       "name": "Maria Alves",
       "rate": 4,
       "userId": 3,
@@ -185,28 +212,28 @@
       "id": 8
     },
     {
-      "comment": "Discordo de vc Maria, o cara é top",
+      "comment": "Peterrrrr você é o cara! Show demais teu trabalho",
       "rate": 5,
       "name": "João Mario",
       "userId": 5,
       "id": 9
     },
     {
-      "comment": "Muito bom desenhista, me chama no zap quem quiser conversar - xxxxxxxxx",
-      "rate": 4,
+      "comment": "Muito bom desenhista, mas muito frio, não se importa com a dor do outro",
+      "rate": 3,
       "name": "Mario Correira",
       "userId": 5,
       "id": 10
     },
     {
-      "comment": "Este tatuador é muito ruim, não gostei da qualidade da tattoo",
+      "comment": "Esta tatuadora é muito ruim, não gostei da qualidade da tattoo",
       "name": "Vitor Soares",
       "rate": 3,
       "userId": 6,
       "id": 11
     },
     {
-      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "comment": "Esta tatuadora é muito melhor que o Peter Aurisch. Parabéns Sacha!",
       "name": "Maria Alves",
       "rate": 4,
       "userId": 6,
@@ -214,28 +241,28 @@
     },
 
     {
-      "comment": "Este tatuador é muito Top",
-      "rate": 4,
+      "comment": "Madame você manda muito, próxima tattoo será com você!",
+      "rate": 5,
       "name": "Vitor Soares Ferreira",
       "userId": 7,
       "id": 12
     },
     {
-      "comment": "Não gostei muito do seu trabalho, muito grosso",
+      "comment": "Não gostei muito do seu trabalho, muito grossa",
       "rate": 2,
       "name": "Maria Alves",
       "userId": 7,
       "id": 13
     },
     {
-      "comment": "Discordo de vc Maria, o cara é top",
+      "comment": "Alice você é doce, além de ser muito profissional",
       "rate": 5,
       "name": "João Mario",
       "userId": 8,
       "id": 14
     },
     {
-      "comment": "Muito bom desenhista, me chama no zap quem quiser conversar - xxxxxxxxx",
+      "comment": "Muito boa desenhista, e muito pra cima!",
       "rate": 4,
       "name": "Mario Correira",
       "userId": 8,
@@ -249,7 +276,7 @@
       "id": 16
     },
     {
-      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "comment": "Este tatuador é muito melhor que a Alice Carrier. Parabéns cara!",
       "name": "Maria Alves",
       "rate": 4,
       "userId": 9,
@@ -263,19 +290,160 @@
       "id": 18
     },
     {
-      "comment": "Este tatuador é muito melhor que o Vitor. Parabéns cara!",
+      "comment": "Discordo Vitor você é um inbecíl!",
       "name": "Maria Alves",
       "rate": 4,
       "userId": 10,
       "id": 19
     }
   ],
+  "portifolio": [
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt8DlEfZ5oeKLHzUbzG9Ax0q4WNu4sBKCwvg&usqp=CAU",
+      "userId": 1
+    },
+    {
+      "img": "https://dwdcg8tx08s8b.cloudfront.net/user-content/made/user-content/page-content-images/pottery_tattoos_1280_1280_70_int_c1.jpg",
+      "userId": 1
+    },
+    {
+      "img": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2015/08/tattoo_styles.jpg?auto=format&q=60&w=1280&h=960&fit=crop&crop=faces",
+      "userId": 1
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQImFQPQ8RfNWDTArPfWn6vmAnaMH8eBxr_g&usqp=CAU",
+      "userId": 2
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRO-HfWaY80rGWgpESB4frYvwdAZgeTU4AUg&usqp=CAU",
+      "userId": 2
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJcZDh3HjaLqEnTbuRVD1_NaPDR0f2yxXpg&usqp=CAU",
+      "userId": 2
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBzKdLl8WAY87QRZziVYWWPEzEbXMnK62pAw&usqp=CAU",
+      "userId": 3
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSucxsW4h0A-TJAkCd08Lk6cPQQ34Fj_xZ3aQ&usqp=CAU",
+      "userId": 3
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCQ4lFWHLV2bnJVznqn8qo0SBjw9ltGdfXA&usqp=CAU",
+      "userId": 3
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmEGjxbfNrajJSzOlXtdEuUhHMQ9njO3IIw&usqp=CAU",
+      "userId": 4
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEt_sf5f1yNK5wjlmEd8Cd8z68rcd68JiHA&usqp=CAU",
+      "userId": 4
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9VLtA3sGve7SAUZPdAmKetZd7wDmqZnYjQ&usqp=CAU",
+      "userId": 4
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWLplFiq1yZ3oj91Udo5uLS94FWTu2kNdGQ&usqp=CAU",
+      "userId": 5
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJIMTXnGsvcn5QgccsCIF2uQM9k-b4gdW4g&usqp=CAU",
+      "userId": 5
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2GD0nKHLdTPyd-Q3c166Oi1dPBIwrX072g&usqp=CAU",
+      "userId": 5
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8F8hpY8W_hgeB6FWeelxGesAaMIDufxKPw&usqp=CAU",
+      "userId": 6
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdi2970GjvvsSqWEBtEusrwrmF2UR7mmLdjQ&usqp=CAU",
+      "userId": 6
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EfqcLSxRq1uOC9qdqsXNJ75vOrd27XUZ6w&usqp=CAU",
+      "userId": 6
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRFAVZhvxc6yO5C23kGkiPmr1UGgwwIy7anw&usqp=CAU",
+      "userId": 7
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ12iGU9a6om7zh-6eXZ03ckGOutFnpALpg&usqp=CAU",
+      "userId": 7
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1PFmI8SG9_CCRJ7tBJHbq-PAoRJBvqGagA&usqp=CAU",
+      "userId": 7
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUHSnkcudfPJQKuYzseoaIwn8gclHSZjMRQ&usqp=CAU",
+      "userId": 8
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_D3sm2UpPQXoJK5JE1ynyl7T2shMqV6WwUA&usqp=CAU",
+      "userId": 8
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-3Bxoq5F9nXVe88bKBpRRbQozC199AvJZA&usqp=CAU",
+      "userId": 8
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBz31CyyhHdDd0WLkOVw7X4OwCWwfVmyFSA&usqp=CAU",
+      "userId": 9
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4KYZUQEcn68aVktFiV0XxIzvfWzsVA45jWw&usqp=CAU",
+      "userId": 9
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtgYFpU9VC_wM82rcRF1fWwCmR6hNISZhsMA&usqp=CAU",
+      "userId": 9
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGUwu0kqczkMl9cjTt49f4mzWYt_a2BO-Q5w&usqp=CAU",
+      "userId": 10
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWPg0ld7gAytoCf1_YB3Dvc9nZvDXkkN72w&usqp=CAU",
+      "userId": 10
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6vidJu_7idvHKOcZR4XxDlPUyJKyJrHQQiA&usqp=CAU",
+      "userId": 10
+    }
+  ],
   "sessions": [
     {
-      "description": "Faremos uma sessão de arte",
-      "userId": 3,
-      "tattooistsId": 2,
+      "event": {
+        "title": "asdasd",
+        "start": "date",
+        "end": "date",
+        "allday": true
+      },
+      "accepted": false,
+      "pending": true,
+      "client": "joao@gmail.com",
+      "userId": 2,
+      "messageRequest": "",
+      "messageResponse": "",
       "id": 1
+    }
+  ],
+  "depositions": [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla felis lorem, id scelerisque arcu porta sit amet. Suspendisse at pulvinar erat, non accumsan diam. Sed eu lorem dignissim, lobortis nulla vitae, pulvinar mi. Suspendisse mollis in leo at mollis.",
+      "userId": 15
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut fringilla felis lorem, id scelerisque arcu porta sit amet. Suspendisse at pulvinar erat, non accumsan diam. Sed eu lorem dignissim, lobortis nulla vitae, pulvinar mi. Suspendisse mollis in leo at mollis.",
+      "userId": 16
     }
   ]
 }

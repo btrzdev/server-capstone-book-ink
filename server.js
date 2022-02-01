@@ -9,8 +9,9 @@ const router = jsonServer.router("db.json");
 app.db = router.db;
 
 const rules = auth.rewriter({
-  "/users": "/644/users/?_embed=comments",
-  "/tattooists": "/644/users?isTattooists=true&_embed=comments",
+  "/users": "/644/users/?_embed=comments&_embed=sessions",
+  "/tattooists": "/644/users?isTattooists=true&_embed=comments&_embed=sessions",
+  depositions: 644,
   sessions: 644,
   tattooists: 644,
 });
