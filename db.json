@@ -148,7 +148,7 @@
       "email": "vilso@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Vilson Neto",
-      "img": "https://drive.google.com/file/d/1nSNIHykQThoHeqtF2A535Kd4_C-BY2vm/view?usp=sharing",
+      "img": "https://ca.slack-edge.com/TQZR39SET-U01SH3T3T1A-29916e744051-512",
       "bio": "Esse Tatuador tem sua arte criativa inspirada nos monges que residem na Tanzânia. Isso porque ele fez o caminho de ascensão como monge Júnior, mas desistiu para ser tatuador. Suas tattoos são criadas a partir da pseudo matéria que reside em algum espaço nas galáxias.",
       "isTattooists": true,
       "id": 17
@@ -239,7 +239,6 @@
       "userId": 6,
       "id": 12
     },
-
     {
       "comment": "Madame você manda muito, próxima tattoo será com você!",
       "rate": 5,
@@ -295,6 +294,34 @@
       "rate": 4,
       "userId": 10,
       "id": 19
+    },
+    {
+      "comment": "Esse Tatoador aqui é magestral, tatua as nossas entregas de vermelho",
+      "name": "Vitor Soares",
+      "rate": 5,
+      "userId": 17,
+      "id": 20
+    },
+    {
+      "comment": "Coe Vitão, respeita o Vilson, manda muito! Relaxa Vilson!",
+      "name": "Luiz Pombo",
+      "rate": 5,
+      "userId": 17,
+      "id": 21
+    },
+    {
+      "comment": "Minha gente parem com isso, aqui é um chat sobre o tatuador e não para discutir.",
+      "name": "Beatriz Silva",
+      "rate": 5,
+      "userId": 17,
+      "id": 22
+    },
+    {
+      "comment": "Vilson você é o cara, manda muito, sucesso pra tiii",
+      "name": "João Pedro",
+      "rate": 5,
+      "userId": 17,
+      "id": 23
     }
   ],
   "portifolio": [
@@ -421,19 +448,34 @@
   ],
   "sessions": [
     {
-      "event": {
-        "title": "asdasd",
-        "start": "date",
-        "end": "date",
-        "allday": true
-      },
+      "date": "",
       "accepted": false,
-      "pending": true,
-      "client": "joao@gmail.com",
+      "pending": false,
+      "client": "joaoasdf@gmail.com",
       "userId": 2,
       "messageRequest": "",
       "messageResponse": "",
       "id": 1
+    },
+    {
+      "date": "Thu, 03 Feb 2022 09:49:26 GMT",
+      "accepted": false,
+      "pending": true,
+      "client": "vitorsoaresf@gmail.com",
+      "userId": 1,
+      "messageRequest": "Fala Rodrigo quero redesenhar minha caveira, esse horário dá certo?",
+      "messageResponse": "",
+      "id": 2
+    },
+    {
+      "date": "Fri, 04 Feb 2022 09:49:26 GMT",
+      "accepted": false,
+      "pending": true,
+      "client": "beatrizsilva@gmail.com",
+      "userId": 1,
+      "messageRequest": "Olá Rodrigo, podemos marcar uma sessão para eu te mostrar um desenho que quero tatuar?",
+      "messageResponse": "",
+      "id": 3
     }
   ],
   "depositions": [

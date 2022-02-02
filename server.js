@@ -10,7 +10,9 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   "/users": "/644/users/?_embed=comments&_embed=sessions",
+  "/users/:id": "/644/users/:id?_embed=comments&_embed=sessions",
   "/tattooists": "/644/users?isTattooists=true&_embed=comments&_embed=sessions",
+  "/allsessions/:id": "/644/sessions/?userId=:id",
   depositions: 644,
   sessions: 644,
   tattooists: 644,
