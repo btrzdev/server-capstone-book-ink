@@ -109,7 +109,7 @@
       "id": 12
     },
     {
-      "email": "joãopedro@gmail.com",
+      "email": "joaopedro@gmail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "João Pedro",
       "img": "https://ca.slack-edge.com/TQZR39SET-U020XDKJ63E-c87d95585258-512",
@@ -448,30 +448,33 @@
   ],
   "sessions": [
     {
-      "date": "",
+      "date": "Wed, 09 Feb 2022 09:49:26 GMT",
       "accepted": false,
-      "pending": false,
-      "client": "joaoasdf@gmail.com",
-      "userId": 2,
-      "messageRequest": "",
+      "pending": true,
+      "client": "vitorsoaresf@gmail.com",
+      "clientId": 11,
+      "userId": 1,
+      "messageRequest": "Fala Rodrigo aqui é o Vitor podemos nessa data marcar nossa seção?",
       "messageResponse": "",
       "id": 1
     },
     {
-      "date": "Thu, 03 Feb 2022 09:49:26 GMT",
+      "date": "Thu, 10 Feb 2022 09:49:26 GMT",
       "accepted": false,
       "pending": true,
-      "client": "vitorsoaresf@gmail.com",
+      "client": "luizpombo@gmail.com",
+      "clientId": 12,
       "userId": 1,
       "messageRequest": "Fala Rodrigo quero redesenhar minha caveira, esse horário dá certo?",
       "messageResponse": "",
       "id": 2
     },
     {
-      "date": "Fri, 04 Feb 2022 09:49:26 GMT",
+      "date": "Fri, 11 Feb 2022 09:49:26 GMT",
       "accepted": false,
       "pending": true,
-      "client": "beatrizsilva@gmail.com",
+      "client": "joaopedro@gmail.com",
+      "clientId": 13,
       "userId": 1,
       "messageRequest": "Olá Rodrigo, podemos marcar uma sessão para eu te mostrar um desenho que quero tatuar?",
       "messageResponse": "",
