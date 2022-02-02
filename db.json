@@ -448,7 +448,20 @@
   ],
   "sessions": [
     {
-      "date": "Wed, 09 Feb 2022 09:49:26 GMT",
+      "allEvents": [
+        {
+          "title": "Big Meeting",
+          "allDay": true,
+          "start": "Thu, 10 Feb 2022 09:49:26 GMT",
+          "end": "Thu, 10 Feb 2022 15:49:26 GMT"
+        },
+        {
+          "title": "Big Meeting",
+          "allDay": true,
+          "start": "Thu, 14 Feb 2022 09:49:26 GMT",
+          "end": "Thu, 14 Feb 2022 15:49:26 GMT"
+        }
+      ],
       "accepted": false,
       "pending": true,
       "client": "vitorsoaresf@gmail.com",
@@ -459,7 +472,14 @@
       "id": 1
     },
     {
-      "date": "Thu, 10 Feb 2022 09:49:26 GMT",
+      "allEvents": [
+        {
+          "title": "Big Meeting",
+          "allDay": true,
+          "start": "Thu, 10 Feb 2022 09:49:26 GMT",
+          "end": "Thu, 10 Feb 2022 15:49:26 GMT"
+        }
+      ],
       "accepted": false,
       "pending": true,
       "client": "luizpombo@gmail.com",
@@ -470,7 +490,20 @@
       "id": 2
     },
     {
-      "date": "Fri, 11 Feb 2022 09:49:26 GMT",
+      "allEvents": [
+        {
+          "title": "Big Meeting",
+          "allDay": true,
+          "start": "Thu, 10 Feb 2022 09:49:26 GMT",
+          "end": "Thu, 10 Feb 2022 15:49:26 GMT"
+        },
+        {
+          "title": "Big Meeting",
+          "allDay": true,
+          "start": "Thu, 14 Feb 2022 09:49:26 GMT",
+          "end": "Thu, 14 Feb 2022 15:49:26 GMT"
+        }
+      ],
       "accepted": false,
       "pending": true,
       "client": "joaopedro@gmail.com",
