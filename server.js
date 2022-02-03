@@ -13,6 +13,7 @@ const rules = auth.rewriter({
   "/users/:id": "/644/users/:id?_embed=comments&_embed=sessions",
   "/tattooists": "/644/users?isTattooists=true&_embed=comments&_embed=sessions",
   "/allsessions/:id": "/644/sessions/?userId=:id",
+  portifolio: 644,
   depositions: 644,
   sessions: 644,
   tattooists: 644,
