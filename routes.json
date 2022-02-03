@@ -3,8 +3,8 @@
   "/users/:id": "/644/users/:id?_embed=comments&_embed=sessions",
   "/comments": "/644/comments/?_expand=tattooists",
   "/tattooists": "/644/users?isTattooists=true&_embed=comments&_embed=sessions",
-  "/allsessions/:id": "/644/sessions/?userId=:id",
-  "sessions": 644,
+  "/allsessions/:id": "/660/sessions/?userId=:id",
+  "sessions": 660,
   "depositions": 644,
   "/portifolio/:id": "/644/portifolio/?userId=:id"
 }
