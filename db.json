@@ -148,7 +148,7 @@
       "email": "vilso@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Vilson Neto",
-      "img": "https://ca.slack-edge.com/TQZR39SET-U01SH3T3T1A-29916e744051-512",
+      "img": "",
       "bio": "Esse Tatuador tem sua arte criativa inspirada nos monges que residem na Tanzânia. Isso porque ele fez o caminho de ascensão como monge Júnior, mas desistiu para ser tatuador. Suas tattoos são criadas a partir da pseudo matéria que reside em algum espaço nas galáxias.",
       "isTattooists": true,
       "id": 17
@@ -322,6 +322,13 @@
       "rate": 5,
       "userId": 17,
       "id": 23
+    },
+    {
+      "comment": "Para pow !",
+      "name": "Rodrigo Callegari",
+      "userId": 1,
+      "rate": 3,
+      "id": 24
     }
   ],
   "portifolio": [
@@ -454,12 +461,6 @@
           "allDay": true,
           "start": "Thu, 10 Feb 2022 09:49:26 GMT",
           "end": "Thu, 10 Feb 2022 15:49:26 GMT"
-        },
-        {
-          "title": "Big Meeting",
-          "allDay": true,
-          "start": "Thu, 14 Feb 2022 09:49:26 GMT",
-          "end": "Thu, 14 Feb 2022 15:49:26 GMT"
         }
       ],
       "accepted": false,
@@ -496,12 +497,6 @@
           "allDay": true,
           "start": "Thu, 10 Feb 2022 09:49:26 GMT",
           "end": "Thu, 10 Feb 2022 15:49:26 GMT"
-        },
-        {
-          "title": "Big Meeting",
-          "allDay": true,
-          "start": "Thu, 14 Feb 2022 09:49:26 GMT",
-          "end": "Thu, 14 Feb 2022 15:49:26 GMT"
         }
       ],
       "accepted": false,
