@@ -6,5 +6,5 @@
   "/allsessions/:id": "/644/sessions/?userId=:id",
   "sessions": 644,
   "depositions": 644,
-  "portifolio": 644
+  "/portifolio/:id": "/644/portifolio/?userId=:id"
 }
